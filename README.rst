@@ -5,6 +5,9 @@ STriTuVaD UISS FLAME GPU Documentation
    :target: https://flame-gpu-uiss.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
+.. image:: https://travis-ci.org/RSE-Sheffield/strituvad-uiss-flamegpu-docs.svg?branch=master
+    :target: https://travis-ci.org/RSE-Sheffield/strituvad-uiss-flamegpu-docs
+
 This is the public facing documentation for the FLAME GPU 1.5 implementation of the UISS 6 simulator, as part of the `STriTuVaD <https://www.strituvad.eu/>`_ H2020 project.
 
 Funding 
