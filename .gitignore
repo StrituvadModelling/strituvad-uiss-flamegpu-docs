@@ -5,4 +5,4 @@ html/
 .doctrees
 get_docs.py
 *.*~
-
+.vscode

@@ -6,7 +6,7 @@ Running the Simulator
 
 To run the FLAME GPU UISS simulator, the code must first be compiled to be executed on an NVIDIA GPU.
 
-See the `source repository <https://github.com/RSE-Sheffield/strituvad-uiss-flamegpu>`_ contains more precise requirements and instructions.
+See the `source repository <https://github.com/StrituvadModelling/strituvad-uiss-flamegpu>`_ contains more precise requirements and instructions.
 
 Requirements (Linux)
 ====================
@@ -27,7 +27,7 @@ Compilation
 
 To build the executable, navigate into the relevant source directory and run `make console`.
 
-Other options are available, as described in the `source repository <https://github.com/RSE-Sheffield/strituvad-uiss-flamegpu>`_. 
+Other options are available, as described in the `source repository <https://github.com/StrituvadModelling/strituvad-uiss-flamegpu>`_. 
 
 
 Running the Simulator

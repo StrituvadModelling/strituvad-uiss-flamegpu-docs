@@ -64,7 +64,7 @@ Currently these are implemented in a branch of a separate repository (`uiss-6 br
 XMLModelFile
 ------------
 
-The XMLModelFile.xml in the `source repository <https://github.com/RSE-Sheffield/strituvad-uiss-flamegpu>`_ is the formal definition of the model.
+The XMLModelFile.xml in the `source repository <https://github.com/StrituvadModelling/strituvad-uiss-flamegpu>`_ is the formal definition of the model.
 It contains:
 
 + Parameters of the Model
@@ -79,7 +79,7 @@ Functions Files
 ---------------
 
 As the model is complex, rather than using a single CUDA C file, functions.c, for all agent behaviour implementation, it is split across several implementation files (.h, .c, .cuh, .cu), in the src/model/ directory.
-Further information can be found in the `source repository <https://github.com/RSE-Sheffield/strituvad-uiss-flamegpu>`_.
+Further information can be found in the `source repository <https://github.com/StrituvadModelling/strituvad-uiss-flamegpu>`_.
 
 
 
@@ -101,9 +101,9 @@ Limitations
 -----------
 Due to the nature of the GPU implementations, and limitations of the current version of FLAME GPU, not all of the UISS features can be replaced exactly.
 
-For instance, the order of interactions is not shuffled on subsequent iterations. The `source repository <https://github.com/RSE-Sheffield/strituvad-uiss-flamegpu>`_ contains further information on the limitations of the implementation.
+For instance, the order of interactions is not shuffled on subsequent iterations. The `source repository <https://github.com/StrituvadModelling/strituvad-uiss-flamegpu>`_ contains further information on the limitations of the implementation.
 
 Further Information
 -------------------
 
-Further information can be found within the `source repository <https://github.com/RSE-Sheffield/strituvad-uiss-flamegpu>`_, containing non-public information.
+Further information can be found within the `source repository <https://github.com/StrituvadModelling/strituvad-uiss-flamegpu>`_, containing non-public information.

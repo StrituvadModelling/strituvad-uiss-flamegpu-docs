@@ -32,7 +32,7 @@ Building the documentation on Linux
 #. Ensure Python 3 (ideally Python >= 3.6) is installed.
 #. Create a `virtual environment <https://docs.python.org/3/tutorial/venv.html>`_ to install sphinx into: ::
 
-    mkdir -m 700 ~/.venvs
+    mkdir -m 700 -p ~/.venvs
     python3 -m venv ~/.venvs/strituvad-uiss-flamegpu-docs
     source ~/.venvs/strituvad-uiss-flamegpu-docs/bin/activate
 
